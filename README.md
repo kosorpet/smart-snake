@@ -1,6 +1,6 @@
 # Smart Snake
 
-Semestral project for BI-PYT - solving the game of Snake with AI. Comparison of different control algorithms attempting to solve the game.
+Semestral project for BI-PYT - solving the game of Snake with AI. Comparison of different control algorithms attempting to solve the game. For results and implementation details see [report.pdf](https://github.com/kosorpet/smart-snake/blob/main/report.pdf)
 
 ## Installation
 
