@@ -37,3 +37,5 @@ For testing:
 pytest
 ```
 
+![snake](https://github.com/kosorpet/smart-snake/blob/main/gif/snake.gif)
+
