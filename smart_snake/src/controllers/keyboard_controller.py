@@ -48,5 +48,5 @@ class KeyboardController:
             self.total_games += 1
             self.total_score += self.game.snake.len
             self.average_scores.append(self.total_score / self.total_games)
-            plot(self.plot_scores, self.average_scores, title="Keyboard game", xlabel="Games", ylabel="Score")
+#             plot(self.plot_scores, self.average_scores, title="Keyboard game", xlabel="Games", ylabel="Score")
             self.game.reset()
